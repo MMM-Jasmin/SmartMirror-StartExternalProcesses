@@ -1,1 +1,1 @@
-# SmartMirror-StartRosProcesses
+# SmartMirror-StartExternalProcesses
